@@ -1,0 +1,4 @@
+build/*
+Include/*
+lib/*
+.vscode/*
